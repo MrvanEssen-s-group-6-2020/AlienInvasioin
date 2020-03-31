@@ -8,7 +8,7 @@ class Settings:
         """initialize the game's settings"""
 
         #version
-        self.version = "1.0.1 (2020.03.30)"
+        self.version = "1.0.1 git (2020.03.30)"
         
         #screen settings
         self.screen_width = 1080
